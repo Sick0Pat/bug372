@@ -18,7 +18,7 @@
 - [X] Renombrar la rama master ó main a `blacklivesmatter`.
 - [X] Cambiar el archivo `README.md`, poner su *nombre* y *apodo* y guardarlo en un commit con el mensaje:
   - `COMMIT2: Updated General Info`
-- [ ] En la rama `bug372` modificar el archivo de python, arreglarlo para que se ejecute correctamente y crear un nuevo commit con el mensaje:
+- [X] En la rama `bug372` modificar el archivo de python, arreglarlo para que se ejecute correctamente y crear un nuevo commit con el mensaje:
 - [ ] En este punto crearán una rama denominada `bug372` en la cual arreglarán el código de python que esta incorrecto.
   - `COMMIT3: Fix welcome message in main.py`
 - [ ] Hacer un merge entre la rama `blacklivesmatter` y `bug372` para que la rama principal tenga el cambio (puede dejar el mensaje por default para el merge).
