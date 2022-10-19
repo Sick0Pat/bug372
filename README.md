@@ -1,8 +1,8 @@
 # Examén #1 - BUG372 - 🐛
 
-> __Nombre:__ 👉 *(Cambiar por su nombre aqui)*
+> __Nombre:__ 👉 Patrick Amar Armenta Legorreta
 >
-> __Apodo:__ 👉 *(Escribir su sobrenombre)*
+> __Apodo:__ 👉 SickoPat o el alumno Python
 >
 >
 ---
@@ -14,9 +14,9 @@
 
 ### Instrucciones:
 
-- [ ] Clonar/Descargar repositorio de la siguiente url: [Base Repository](https://github.com/cheemsdoggie/bug372.git)
-- [ ] Renombrar la rama master ó main a `blacklivesmatter`.
-- [ ] Cambiar el archivo `README.md`, poner su *nombre* y *apodo* y guardarlo en un commit con el mensaje:
+- [X] Clonar/Descargar repositorio de la siguiente url: [Base Repository](https://github.com/cheemsdoggie/bug372.git)
+- [X] Renombrar la rama master ó main a `blacklivesmatter`.
+- [X] Cambiar el archivo `README.md`, poner su *nombre* y *apodo* y guardarlo en un commit con el mensaje:
   - `COMMIT2: Updated General Info`
 - [ ] En la rama `bug372` modificar el archivo de python, arreglarlo para que se ejecute correctamente y crear un nuevo commit con el mensaje:
 - [ ] En este punto crearán una rama denominada `bug372` en la cual arreglarán el código de python que esta incorrecto.
