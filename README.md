@@ -33,9 +33,13 @@
 - [X] `Subir a sus cuentas de GITHUB` el repositorio del código y colocar el `link` en la pregunta/inciso `6` del exámen de blackboard.
 
 ---
+<center>
 
 ### Meme
-<div style="text-align:center"><img src="cheemsreprobacion.jpg" /></div>
+
+![img](./cheemsreprobacion.jpg)
+
+</center>
 ---
 
 ### Representación gráfica de exámen
